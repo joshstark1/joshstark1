@@ -9,7 +9,7 @@
 - [CompTIA Security+](https://github.com/joshmadakor1/Algorithms-Practice)
 - [Google Cybersecurity Certification](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 YouTube Videos</h2>
 
 - [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
