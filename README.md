@@ -7,7 +7,7 @@
 <h2>📃 Certifications</h2>
 
 - [CompTIA Security+](https://github.com/joshmadakor1/Algorithms-Practice)
-- [Google Cybersecurity Certification](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Google Cybersecurity Certificate](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📺 YouTube Videos</h2>
 
