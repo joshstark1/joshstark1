@@ -6,8 +6,9 @@
 
 <h2>📃 Certifications</h2>
 
-- [CompTIA Security+](https://github.com/joshmadakor1/Algorithms-Practice)
-- [Google Cybersecurity Certificate](https://github.com/joshmadakor1/Algorithms-Practice)
+- [CompTIA Security+](https://www.credly.com/badges/bcd0457a-fa97-4ddd-831e-5b3cbff145fe/public_url)
+- [Google Cybersecurity Certificate](https://www.credly.com/badges/7718f1f5-25fd-49f7-a887-8216189ce79c/public_url)
+- [ISC2 Candidate](https://www.credly.com/badges/7bbe04b5-0b76-47f3-9d87-e6e7bcf8492a/public_url)
 
 <h2>📺 YouTube Videos</h2>
 
@@ -15,9 +16,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshStark | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshStark | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[youtube]: https://youtube.com/@joshstark1
 [linkedin]: https://linkedin.com/in/starkjosh
 
 <!--
