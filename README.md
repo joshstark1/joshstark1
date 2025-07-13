@@ -4,7 +4,7 @@
 
  - [Active Directory Home Lab](https://github.com/joshstark1/ActiveDirectoryLab)
 
-<h2>📃 Certifications</h2>
+<h2>📃 Certifications:</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/bcd0457a-fa97-4ddd-831e-5b3cbff145fe/public_url)
 - [Google Cybersecurity Certificate](https://www.credly.com/badges/7718f1f5-25fd-49f7-a887-8216189ce79c/public_url)
