@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
- - [JWipe Disk Sanitization Lab](https://github.com/joshstark1/ActiveDirectoryLab)
+ - [JWipe Disk Sanitization Lab](https://github.com/joshstark1/JWipe-Disk-Sanitization)
 
 <h2>📃 Certifications:</h2>
 
